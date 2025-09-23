@@ -1,16 +1,52 @@
-DART-WEEK-ONE-
-Data Types Implementation:
+#🚀 WEEK-ONE-DART-BASICS
+--
 
-Define Variables: Create a Dart program that defines and initializes variables of the following types: int, double, String, bool, and List.
+Naming convection recommended is **camelCase**
 
-Type Conversion: Implement functions to: Convert a String to int and double. Convert an int to String and double.
+## 📝 Variables  
 
-Function for Conversion: Write a function convertAndDisplay that: Takes a String representing a number. Converts the String to int and double. Prints the results.
+In Dart, a **variable** is a named storage location that can be declared using `var`, `final`, or `const`.  
+The choice depends on whether the value is intended to be **mutable** or **immutable**.  
 
-Control Flow:
+### 🔑 Key Concepts  
+- **Mutable** → A variable that **can be changed** after it's created.  
+  - Example: `var`  
+- **Immutable** → A variable that **cannot be changed** after it's created.  
+  - Example:  
+    - `final` → value set at **runtime**.  
+    - `const` → value set at **compile-time**.  
 
-If-Else Statements: Implement a Dart program that: Uses if-else statements to check if a number is positive, negative, or zero. Uses if-else statements to determine if a person is eligible to vote based on age (must be 18 or older). Switch Case: Create a program that: Uses a switch statement to print the day of the week based on a given int (1 for Monday, 2 for Tuesday, etc.). Loops: Implement the following: A for loop that prints numbers from 1 to 10. A while loop that prints numbers from 10 to 1. A do-while loop that prints numbers from 1 to 5.
+--
 
-Combining Data Types and Control Flow:
+## 🔢 Data Types in Dart  
 
-Complex Example: Write a Dart program that: Defines a List of int numbers. Uses a for loop to iterate through the list and: Print each number. Use if-else statements to check if the number is even or odd. Implements a switch statement to categorize numbers into "small" (1-10), "medium" (11-100), or "large" (101+).
+Dart supports several **built-in data types**, which allow you to work with different kinds of values.  
+
+### 📌 Core Data Types  
+
+1. **Numbers** → variables that can be used for arithmetic purposes.  
+   - `int` → whole numbers  
+   - `double` → decimal numbers 
+2. **String** → saved as text data `String`.
+3. **Booleans** - for setting conditional code `bool`.
+4. **List** - ordered collection of objects `List varName = []`.
+5. **Maps** - dynamic key-value set pairs `Map<String, int> ages = {'Alice': 30, 'Bob': 25};`
+6. **Runes** - represent unicode code point eg Emojis, Special Char `Runes()`.
+
+--
+
+## 🔀 Control Flow in Dart  
+
+Control flow allows a program to **decide which direction the code takes** based on conditions or repeat actions until a condition is met.  
+
+### 🧩 Control Statements 
+
+1. **Decision-Making Statements** → These statements decide the **flow of the program** based on conditions.
+   - `If` statements → runs a single statement if the condition is met.
+   - `If-else` statements → has two statements, runs the 1st statement if the condtion is met else the 2nd.
+   - `Nested If` statements → has multiple statements, runs the 1st statement if the condtion is met else the next `If-else` then next dependong on the number of statemts.
+   - `Switch` statements → choose a block of code to execute from multiple options.
+2. Loopping Statements → These statements execute a block of code repeatedly while a condition holds true.
+   - `For` Loop → best when the number of iterations is **known in advance**.
+   - `While` Loop → best when the number of iterations is **unknown and depends on a condition**.
+   - `Do... While` Loop → ensures the block of code runs **at least once**, even if the condition is false at the start.
