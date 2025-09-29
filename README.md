@@ -13,10 +13,11 @@ This repository will contain code, notes, and mini-projects as I progress week b
 - ✅ If-Else, Switch, and Loops  
 - ✅ Small console exercises  
 
-### **Week 2 – Functions & Collections**
-- Functions, Parameters, Return values  
-- Lists, Sets, Maps  
-- Null safety basics  
+### **Week 2 – Functions**
+- ✅ Functions,
+- ✅ Types if functions  
+- ✅ Parameters  
+- ✅ Return values 
 
 ### **Week 3 – Object-Oriented Programming in Dart**
 - Classes & Objects  
