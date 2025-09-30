@@ -1,8 +1,7 @@
 # OBJECT-ORIENTED PROGRAMMING
--
+
 Is a programming pradgim where classes and onjects represent real-world problems
 
--
 ## Features on OOP in Dart
 
 1. ### Classes
@@ -43,7 +42,7 @@ Is a programming pradgim where classes and onjects represent real-world problems
           reuseable code;
         } `
 
--
 ## Assignment Guide
+
 **Assignent1.dart** is a banking program that uses all the concept of oop in dart.
 **Assignment2.dart** is a hospital program that also uses the concept of oop in dart.
