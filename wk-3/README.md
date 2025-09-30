@@ -12,8 +12,7 @@ Is a programming pradgim where classes and onjects represent real-world problems
    
 4. ### Encapsulation
    -> Encapsulation in Dart hides data using private variables (denoted using `_var`) with controlled access via getters and setters.
-   -> Getter → retrieves a private variable’s value.
-   -> Setter → updates or assigns a private variable’s value.
+    **Getter** → retrieves a private variable’s value. **Setter** → updates or assigns a private variable’s value.
    
 6. ### Inheritance
    -> A class can derive properties and methods from another using `extends`.
