@@ -5,8 +5,7 @@ Is a programming pradgim where classes and onjects represent real-world problems
 ## Features on OOP in Dart
 
 1. ### Classes
-    -> an blue print for creating objects.
-    -> Consist of **Constructor** - initialize the class.
+    -> an blue print for creating objects. Consist of **Constructor** - initialize the class.
   
 2. ### Objects
    -> an instance of a class.
