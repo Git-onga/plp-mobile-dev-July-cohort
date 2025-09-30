@@ -20,10 +20,12 @@ This repository will contain code, notes, and mini-projects as I progress week b
 - ✅ Return values 
 
 ### **Week 3 – Object-Oriented Programming in Dart**
-- Classes & Objects  
-- Constructors  
-- Inheritance & Polymorphism  
-- Getters & Setters  
+- ✅ Classes & Objects  
+- ✅ Constructors  
+- ✅ Inheritance & Polymorphism  
+- ✅ Getters & Setters
+- ✅ Singletons
+- ✅ Mixin
 
 ### **Week 4 – Advanced Dart**
 - Exceptions & Error Handling  
