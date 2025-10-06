@@ -28,9 +28,8 @@ This repository will contain code, notes, and mini-projects as I progress week b
 - ✅ Mixin
 
 ### **Week 4 – Advanced Dart**
-- Exceptions & Error Handling  
-- Asynchronous Programming (Futures, async/await)  
-- Packages & Libraries  
+- ✅ String Manipulation
+- ✅ Asynchronous Programming (Futures, async/await)
 
 ### **Week 5 – Flutter Basics**
 - Flutter setup & first app (`Hello World`)  
