@@ -33,4 +33,4 @@ String manipulation is essential for processing and formatting text data in prog
 
   - **Concatenation** - Concatenation combines two or more strings into one using ('+') sign.
   - **Interpolation** - This embeds a variable within string using ('$').
-  - **Substring** - using the function `substring` to extract a portion of the string using the indices.
+  - **Substring** - using the function `substring()` to extract a portion of the string using the indices.
