@@ -35,7 +35,7 @@ Widgets are the building block of an app. Flutter uses a widget tree to determin
   
   - Verify Installation:
       - Open Command Prompt and run:
-      - flutter doctor/ flutter --version
+          `flutter doctor/ flutter --version`
 
 Follow instructions to resolve any missing dependencies.
 
