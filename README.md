@@ -32,9 +32,9 @@ This repository will contain code, notes, and mini-projects as I progress week b
 - ✅ Asynchronous Programming (Futures, async/await)
 
 ### **Week 5 – Flutter Basics**
-- Flutter setup & first app (`Hello World`)  
-- Widgets (Stateless & Stateful)  
-- Layouts (Row, Column, Container, Stack)  
+- ✅ Flutter setup & first app (`Hello World`)  
+- ✅ Widgets (Stateless & Stateful)  
+- ✅ Layouts (Row, Column, Container, Stack)  
 
 ### **Week 6 – Flutter UI & Navigation**
 - Material Design widgets  
