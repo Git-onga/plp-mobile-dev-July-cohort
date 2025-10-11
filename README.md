@@ -37,8 +37,8 @@ This repository will contain code, notes, and mini-projects as I progress week b
 - ✅ Layouts (Row, Column, Container, Stack)  
 
 ### **Week 6 – Flutter UI & Navigation**
-- Material Design widgets  
-- Forms & User Input  
+- ✅ Material Design widgets  
+- ✅ Forms & User Input  
 - Navigation (Routes, Navigator)  
 
 ### **Week 7 – State Management & APIs**
