@@ -39,7 +39,7 @@ This repository will contain code, notes, and mini-projects as I progress week b
 ### **Week 6 – Flutter UI & Navigation**
 - ✅ Material Design widgets  
 - ✅ Forms & User Input  
-- Navigation (Routes, Navigator)  
+- ✅ Navigation (Routes, Navigator)  
 
 ### **Week 7 – State Management & APIs**
 - State management basics (setState, InheritedWidget, Provider)  
